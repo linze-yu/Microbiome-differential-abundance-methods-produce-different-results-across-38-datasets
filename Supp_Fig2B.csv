@@ -1,0 +1,15 @@
+﻿Tool,Unfiltered,Filtered
+ALDEx2,NA,NA
+ANCOM-II,NA,0.401823871
+corncob,NA,0.404618593
+DESeq2,NA,NA
+edgeR,NA,NA
+LEfSe,NA,0.329029434
+limma voom (TMM),NA,0.335059084
+limma voom (TMMwsp),NA,NA
+MaAsLin2,0.35186454,0.354341916
+MaAsLin2 (rare),NA,0.356002184
+metagenomeSeq,NA,NA
+t-test (rare),0.413265816,0.400651429
+Wilcoxon (CLR),NA,NA
+Wilcoxon (rare),0.355788978,0.425656317

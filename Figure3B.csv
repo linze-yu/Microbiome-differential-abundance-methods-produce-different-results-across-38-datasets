@@ -1,0 +1,197 @@
+﻿,variable,Score (No. of tools that called ASV as significant),value (Percent of significant features identified by that tool),Method_clean,Total_Hits
+1,aldex2,1,0,ALDEx2,10323
+2,ancom,1,0,ANCOM-II,3758
+3,corncob,1,0.708443728,corncob,17362
+4,deseq2,1,0.303516207,DESeq2,17462
+5,edger,1,8.507498541,edgeR,29139
+6,lefse,1,7.555725061,LEfSe,23598
+7,limma_voom_TMM,1,8.482829318,limma voom (TMM),23412
+8,limma_voom_TMMwsp,1,11.12092146,limma voom (TMMwsp),24917
+9,maaslin2,1,0.619670831,MaAsLin2,20172
+10,maaslin2rare,1,0,MaAsLin2 (rare),17193
+11,metagenomeSeq,1,0.490832158,metagenomeSeq,17725
+12,ttestrare,1,2.34496124,t-test (rare),15480
+13,wilcoxonclr,1,10.87262783,Wilcoxon (CLR),24134
+14,wilcoxonrare,1,0,Wilcoxon (rare),17471
+15,aldex2,2,0.067809745,ALDEx2,10323
+16,ancom,2,0.532197978,ANCOM-II,3758
+17,corncob,2,3.248473678,corncob,17362
+18,deseq2,2,5.182682396,DESeq2,17462
+19,edger,2,12.28593981,edgeR,29139
+20,lefse,2,5.73353674,LEfSe,23598
+21,limma_voom_TMM,2,6.078079617,limma voom (TMM),23412
+22,limma_voom_TMMwsp,2,9.250712365,limma voom (TMMwsp),24917
+23,maaslin2,2,1.427721594,MaAsLin2,20172
+24,maaslin2rare,2,0.063979527,MaAsLin2 (rare),17193
+25,metagenomeSeq,2,1.088857546,metagenomeSeq,17725
+26,ttestrare,2,0.833333333,t-test (rare),15480
+27,wilcoxonclr,2,12.93610674,Wilcoxon (CLR),24134
+28,wilcoxonrare,2,0.228950833,Wilcoxon (rare),17471
+29,aldex2,3,0.058122639,ALDEx2,10323
+30,ancom,3,0.95795636,ANCOM-II,3758
+31,corncob,3,4.561686442,corncob,17362
+32,deseq2,3,3.269957622,DESeq2,17462
+33,edger,3,7.241154467,edgeR,29139
+34,lefse,3,3.610475464,LEfSe,23598
+35,limma_voom_TMM,3,6.569280711,limma voom (TMM),23412
+36,limma_voom_TMMwsp,3,7.06746398,limma voom (TMMwsp),24917
+37,maaslin2,3,2.047392425,MaAsLin2,20172
+38,maaslin2rare,3,0.337346595,MaAsLin2 (rare),17193
+39,metagenomeSeq,3,3.435825106,metagenomeSeq,17725
+40,ttestrare,3,0.704134367,t-test (rare),15480
+41,wilcoxonclr,3,8.084030828,Wilcoxon (CLR),24134
+42,wilcoxonrare,3,0.97876481,Wilcoxon (rare),17471
+43,aldex2,4,0.222803449,ALDEx2,10323
+44,ancom,4,0.71846727,ANCOM-II,3758
+45,corncob,4,4.123948854,corncob,17362
+46,deseq2,4,2.519757187,DESeq2,17462
+47,edger,4,5.350217921,edgeR,29139
+48,lefse,4,3.860496652,LEfSe,23598
+49,limma_voom_TMM,4,4.894925679,limma voom (TMM),23412
+50,limma_voom_TMMwsp,4,4.956455432,limma voom (TMMwsp),24917
+51,maaslin2,4,2.310132857,MaAsLin2,20172
+52,maaslin2rare,4,0.535101495,MaAsLin2 (rare),17193
+53,metagenomeSeq,4,3.401974612,metagenomeSeq,17725
+54,ttestrare,4,1.363049096,t-test (rare),15480
+55,wilcoxonclr,4,4.798209994,Wilcoxon (CLR),24134
+56,wilcoxonrare,4,1.7457501,Wilcoxon (rare),17471
+57,aldex2,5,0.406858471,ALDEx2,10323
+58,ancom,5,0.878126663,ANCOM-II,3758
+59,corncob,5,4.123948854,corncob,17362
+60,deseq2,5,3.224143855,DESeq2,17462
+61,edger,5,4.602079687,edgeR,29139
+62,lefse,5,3.8647343,LEfSe,23598
+63,limma_voom_TMM,5,4.719801811,limma voom (TMM),23412
+64,limma_voom_TMMwsp,5,4.234057069,limma voom (TMMwsp),24917
+65,maaslin2,5,3.192544121,MaAsLin2,20172
+66,maaslin2rare,5,1.395916943,MaAsLin2 (rare),17193
+67,metagenomeSeq,5,3.779971791,metagenomeSeq,17725
+68,ttestrare,5,1.983204134,t-test (rare),15480
+69,wilcoxonclr,5,3.911494158,Wilcoxon (CLR),24134
+70,wilcoxonrare,5,2.478392765,Wilcoxon (rare),17471
+71,aldex2,6,0.726532985,ALDEx2,10323
+72,ancom,6,1.011176158,ANCOM-II,3758
+73,corncob,6,4.930307568,corncob,17362
+74,deseq2,6,3.275684343,DESeq2,17462
+75,edger,6,4.45107931,edgeR,29139
+76,lefse,6,4.546995508,LEfSe,23598
+77,limma_voom_TMM,6,3.878352981,limma voom (TMM),23412
+78,limma_voom_TMMwsp,6,3.620018461,limma voom (TMMwsp),24917
+79,maaslin2,6,4.947451914,MaAsLin2,20172
+80,maaslin2rare,6,3.675914616,MaAsLin2 (rare),17193
+81,metagenomeSeq,6,3.418899859,metagenomeSeq,17725
+82,ttestrare,6,2.409560724,t-test (rare),15480
+83,wilcoxonclr,6,3.327256153,Wilcoxon (CLR),24134
+84,wilcoxonrare,6,4.081048595,Wilcoxon (rare),17471
+85,aldex2,7,1.375569118,ALDEx2,10323
+86,ancom,7,1.117615753,ANCOM-II,3758
+87,corncob,7,4.026033867,corncob,17362
+88,deseq2,7,3.733822014,DESeq2,17462
+89,edger,7,4.423624695,edgeR,29139
+90,lefse,7,4.585134333,LEfSe,23598
+91,limma_voom_TMM,7,4.228600718,limma voom (TMM),23412
+92,limma_voom_TMMwsp,7,3.728378216,limma voom (TMMwsp),24917
+93,maaslin2,7,5.958754709,MaAsLin2,20172
+94,maaslin2rare,7,4.961321468,MaAsLin2 (rare),17193
+95,metagenomeSeq,7,4.259520451,metagenomeSeq,17725
+96,ttestrare,7,3.785529716,t-test (rare),15480
+97,wilcoxonclr,7,3.492997431,Wilcoxon (CLR),24134
+98,wilcoxonrare,7,4.779348635,Wilcoxon (rare),17471
+99,aldex2,8,2.276470018,ALDEx2,10323
+100,ancom,8,1.224055349,ANCOM-II,3758
+101,corncob,8,4.417693814,corncob,17362
+102,deseq2,8,4.340854427,DESeq2,17462
+103,edger,8,4.485397577,edgeR,29139
+104,lefse,8,5.322484956,LEfSe,23598
+105,limma_voom_TMM,8,4.570305826,limma voom (TMM),23412
+106,limma_voom_TMMwsp,8,3.876871212,limma voom (TMMwsp),24917
+107,maaslin2,8,7.098949038,MaAsLin2,20172
+108,maaslin2rare,8,6.805095097,MaAsLin2 (rare),17193
+109,metagenomeSeq,8,4.716502116,metagenomeSeq,17725
+110,ttestrare,8,4.864341085,t-test (rare),15480
+111,wilcoxonclr,8,3.679456369,Wilcoxon (CLR),24134
+112,wilcoxonrare,8,6.021406903,Wilcoxon (rare),17471
+113,aldex2,9,3.661726242,ALDEx2,10323
+114,ancom,9,2.022352315,ANCOM-II,3758
+115,corncob,9,7.032599931,corncob,17362
+116,deseq2,9,6.328026572,DESeq2,17462
+117,edger,9,5.449740897,edgeR,29139
+118,lefse,9,6.873463853,LEfSe,23598
+119,limma_voom_TMM,9,5.996924654,limma voom (TMM),23412
+120,limma_voom_TMMwsp,9,4.711642654,limma voom (TMMwsp),24917
+121,maaslin2,9,9.022407297,MaAsLin2,20172
+122,maaslin2rare,9,9.300296632,MaAsLin2 (rare),17193
+123,metagenomeSeq,9,6.916784203,metagenomeSeq,17725
+124,ttestrare,9,7.764857881,t-test (rare),15480
+125,wilcoxonclr,9,4.263694373,Wilcoxon (CLR),24134
+126,wilcoxonrare,9,8.190716044,Wilcoxon (rare),17471
+127,aldex2,10,3.710161775,ALDEx2,10323
+128,ancom,10,2.634379989,ANCOM-II,3758
+129,corncob,10,9.261605806,corncob,17362
+130,deseq2,10,9.2429275,DESeq2,17462
+131,edger,10,6.839630735,edgeR,29139
+132,lefse,10,8.843969828,LEfSe,23598
+133,limma_voom_TMM,10,7.116008884,limma voom (TMM),23412
+134,limma_voom_TMMwsp,10,5.710960388,limma voom (TMMwsp),24917
+135,maaslin2,10,10.52448939,MaAsLin2,20172
+136,maaslin2rare,10,11.47560054,MaAsLin2 (rare),17193
+137,metagenomeSeq,10,10.3751763,metagenomeSeq,17725
+138,ttestrare,10,10.72351421,t-test (rare),15480
+139,wilcoxonclr,10,4.068948372,Wilcoxon (CLR),24134
+140,wilcoxonrare,10,10.98963997,Wilcoxon (rare),17471
+141,aldex2,11,6.054441538,ALDEx2,10323
+142,ancom,11,2.927088877,ANCOM-II,3758
+143,corncob,11,6.969243175,corncob,17362
+144,deseq2,11,8.080403161,DESeq2,17462
+145,edger,11,5.67967329,edgeR,29139
+146,lefse,11,7.208237986,LEfSe,23598
+147,limma_voom_TMM,11,5.787630275,limma voom (TMM),23412
+148,limma_voom_TMMwsp,11,6.256772485,limma voom (TMMwsp),24917
+149,maaslin2,11,8.407693833,MaAsLin2,20172
+150,maaslin2rare,11,9.492235212,MaAsLin2 (rare),17193
+151,metagenomeSeq,11,8.767277856,metagenomeSeq,17725
+152,ttestrare,11,8.669250646,t-test (rare),15480
+153,wilcoxonclr,11,5.15041021,Wilcoxon (CLR),24134
+154,wilcoxonrare,11,9.324022666,Wilcoxon (rare),17471
+155,aldex2,12,17.22367529,ALDEx2,10323
+156,ancom,12,4.896221394,ANCOM-II,3758
+157,corncob,12,10.21195715,corncob,17362
+158,deseq2,12,12.6159661,DESeq2,17462
+159,edger,12,7.937815299,edgeR,29139
+160,lefse,12,9.903381643,LEfSe,23598
+161,limma_voom_TMM,12,9.388347856,limma voom (TMM),23412
+162,limma_voom_TMMwsp,12,8.865433238,limma voom (TMMwsp),24917
+163,maaslin2,12,11.58040849,MaAsLin2,20172
+164,maaslin2rare,12,13.43570058,MaAsLin2 (rare),17193
+165,metagenomeSeq,12,12.52468265,metagenomeSeq,17725
+166,ttestrare,12,12.59689922,t-test (rare),15480
+167,wilcoxonclr,12,7.955581338,Wilcoxon (CLR),24134
+168,wilcoxonrare,12,13.23908191,Wilcoxon (rare),17471
+169,aldex2,13,40.29836288,ALDEx2,10323
+170,ancom,13,15.38052155,ANCOM-II,3758
+171,corncob,13,22.16334524,corncob,17362
+172,deseq2,13,23.74298477,DESeq2,17462
+173,edger,13,14.2729675,edgeR,29139
+174,lefse,13,17.62861259,LEfSe,23598
+175,limma_voom_TMM,13,17.74303776,limma voom (TMM),23412
+176,limma_voom_TMMwsp,13,16.6914155,limma voom (TMMwsp),24917
+177,maaslin2,13,20.62264525,MaAsLin2,20172
+178,maaslin2rare,13,24.16099575,MaAsLin2 (rare),17193
+179,metagenomeSeq,13,22.89421721,metagenomeSeq,17725
+180,ttestrare,13,26.00775194,t-test (rare),15480
+181,wilcoxonclr,13,17.22880583,Wilcoxon (CLR),24134
+182,wilcoxonrare,13,23.81088661,Wilcoxon (rare),17471
+183,aldex2,14,23.91746585,ALDEx2,10323
+184,ancom,14,65.69984034,ANCOM-II,3758
+185,corncob,14,14.2207119,corncob,17362
+186,deseq2,14,14.13927385,DESeq2,17462
+187,edger,14,8.473180274,edgeR,29139
+188,lefse,14,10.46275108,LEfSe,23598
+189,limma_voom_TMM,14,10.54587391,limma voom (TMM),23412
+190,limma_voom_TMMwsp,14,9.90889754,limma voom (TMMwsp),24917
+191,maaslin2,14,12.23973825,MaAsLin2,20172
+192,maaslin2rare,14,14.36049555,MaAsLin2 (rare),17193
+193,metagenomeSeq,14,13.92947814,metagenomeSeq,17725
+194,ttestrare,14,15.9496124,t-test (rare),15480
+195,wilcoxonclr,14,10.23038038,Wilcoxon (CLR),24134
+196,wilcoxonrare,14,14.13199016,Wilcoxon (rare),17471

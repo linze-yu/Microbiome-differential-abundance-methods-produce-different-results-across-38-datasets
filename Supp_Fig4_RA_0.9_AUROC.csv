@@ -1,0 +1,796 @@
+﻿Dataset,Tool,value,type
+ArcticFireSoils,ALDEx2,1,Recall
+Chemerin,ALDEx2,1,Recall
+glass_plastic_oberbeckmann,ALDEx2,0.833333333,Recall
+GWMC_ASIA_NA,ALDEx2,1,Recall
+hiv_lozupone,ALDEx2,0,Recall
+ibd_papa,ALDEx2,0,Recall
+Ji_WTP_DS,ALDEx2,1,Recall
+sed_plastic_hoellein,ALDEx2,1,Recall
+sed_plastic_rosato,ALDEx2,1,Recall
+seston_plastic_mccormick,ALDEx2,1,Recall
+sw_plastic_frere,ALDEx2,1,Recall
+sw_sed_detender,ALDEx2,1,Recall
+t1d_alkanani,ALDEx2,0,Recall
+t1d_mejialeon,ALDEx2,0.333333333,Recall
+wood_plastic_kesy,ALDEx2,1,Recall
+ArcticFireSoils,ANCOM-II,1,Recall
+Chemerin,ANCOM-II,0.989473684,Recall
+glass_plastic_oberbeckmann,ANCOM-II,0.666666667,Recall
+GWMC_ASIA_NA,ANCOM-II,1,Recall
+hiv_lozupone,ANCOM-II,0.111111111,Recall
+ibd_papa,ANCOM-II,0,Recall
+Ji_WTP_DS,ANCOM-II,0.863636364,Recall
+sed_plastic_hoellein,ANCOM-II,1,Recall
+sed_plastic_rosato,ANCOM-II,0.392523364,Recall
+seston_plastic_mccormick,ANCOM-II,1,Recall
+sw_plastic_frere,ANCOM-II,0.990566038,Recall
+sw_sed_detender,ANCOM-II,0.767857143,Recall
+t1d_alkanani,ANCOM-II,0,Recall
+t1d_mejialeon,ANCOM-II,0.333333333,Recall
+wood_plastic_kesy,ANCOM-II,1,Recall
+ArcticFireSoils,corncob,1,Recall
+Chemerin,corncob,0.189473684,Recall
+glass_plastic_oberbeckmann,corncob,0.833333333,Recall
+GWMC_ASIA_NA,corncob,1,Recall
+hiv_lozupone,corncob,0.444444444,Recall
+ibd_papa,corncob,0,Recall
+Ji_WTP_DS,corncob,0.454545455,Recall
+sed_plastic_hoellein,corncob,0,Recall
+sed_plastic_rosato,corncob,0.971962617,Recall
+seston_plastic_mccormick,corncob,0.666666667,Recall
+sw_plastic_frere,corncob,0.551886792,Recall
+sw_sed_detender,corncob,0.744047619,Recall
+t1d_alkanani,corncob,0.933333333,Recall
+t1d_mejialeon,corncob,1,Recall
+wood_plastic_kesy,corncob,1,Recall
+ArcticFireSoils,DESeq2,1,Recall
+Chemerin,DESeq2,1,Recall
+glass_plastic_oberbeckmann,DESeq2,0.833333333,Recall
+GWMC_ASIA_NA,DESeq2,1,Recall
+hiv_lozupone,DESeq2,0.222222222,Recall
+ibd_papa,DESeq2,0,Recall
+Ji_WTP_DS,DESeq2,1,Recall
+sed_plastic_hoellein,DESeq2,0.5,Recall
+sed_plastic_rosato,DESeq2,0.962616822,Recall
+seston_plastic_mccormick,DESeq2,1,Recall
+sw_plastic_frere,DESeq2,0.948113208,Recall
+sw_sed_detender,DESeq2,0.958333333,Recall
+t1d_alkanani,DESeq2,0,Recall
+t1d_mejialeon,DESeq2,0.666666667,Recall
+wood_plastic_kesy,DESeq2,1,Recall
+ArcticFireSoils,edgeR,1,Recall
+Chemerin,edgeR,1,Recall
+glass_plastic_oberbeckmann,edgeR,1,Recall
+GWMC_ASIA_NA,edgeR,1,Recall
+hiv_lozupone,edgeR,0.444444444,Recall
+ibd_papa,edgeR,1,Recall
+Ji_WTP_DS,edgeR,1,Recall
+sed_plastic_hoellein,edgeR,1,Recall
+sed_plastic_rosato,edgeR,1,Recall
+seston_plastic_mccormick,edgeR,1,Recall
+sw_plastic_frere,edgeR,1,Recall
+sw_sed_detender,edgeR,1,Recall
+t1d_alkanani,edgeR,0,Recall
+t1d_mejialeon,edgeR,0.333333333,Recall
+wood_plastic_kesy,edgeR,1,Recall
+ArcticFireSoils,LEfSe,1,Recall
+Chemerin,LEfSe,1,Recall
+glass_plastic_oberbeckmann,LEfSe,1,Recall
+GWMC_ASIA_NA,LEfSe,1,Recall
+hiv_lozupone,LEfSe,0.888888889,Recall
+ibd_papa,LEfSe,1,Recall
+Ji_WTP_DS,LEfSe,1,Recall
+sed_plastic_hoellein,LEfSe,1,Recall
+sed_plastic_rosato,LEfSe,1,Recall
+seston_plastic_mccormick,LEfSe,1,Recall
+sw_plastic_frere,LEfSe,0.976415094,Recall
+sw_sed_detender,LEfSe,1,Recall
+t1d_alkanani,LEfSe,0.8,Recall
+t1d_mejialeon,LEfSe,1,Recall
+wood_plastic_kesy,LEfSe,1,Recall
+ArcticFireSoils,MaAsLin2,1,Recall
+Chemerin,MaAsLin2,1,Recall
+glass_plastic_oberbeckmann,MaAsLin2,1,Recall
+GWMC_ASIA_NA,MaAsLin2,1,Recall
+hiv_lozupone,MaAsLin2,0.222222222,Recall
+ibd_papa,MaAsLin2,0.4,Recall
+Ji_WTP_DS,MaAsLin2,1,Recall
+sed_plastic_hoellein,MaAsLin2,1,Recall
+sed_plastic_rosato,MaAsLin2,1,Recall
+seston_plastic_mccormick,MaAsLin2,1,Recall
+sw_plastic_frere,MaAsLin2,0.981132075,Recall
+sw_sed_detender,MaAsLin2,1,Recall
+t1d_alkanani,MaAsLin2,0,Recall
+t1d_mejialeon,MaAsLin2,1,Recall
+wood_plastic_kesy,MaAsLin2,1,Recall
+ArcticFireSoils,MaAsLin2 (rare),1,Recall
+Chemerin,MaAsLin2 (rare),1,Recall
+glass_plastic_oberbeckmann,MaAsLin2 (rare),1,Recall
+GWMC_ASIA_NA,MaAsLin2 (rare),1,Recall
+hiv_lozupone,MaAsLin2 (rare),0.111111111,Recall
+ibd_papa,MaAsLin2 (rare),0.4,Recall
+Ji_WTP_DS,MaAsLin2 (rare),1,Recall
+sed_plastic_hoellein,MaAsLin2 (rare),0.5,Recall
+sed_plastic_rosato,MaAsLin2 (rare),1,Recall
+seston_plastic_mccormick,MaAsLin2 (rare),1,Recall
+sw_plastic_frere,MaAsLin2 (rare),0.787735849,Recall
+sw_sed_detender,MaAsLin2 (rare),1,Recall
+t1d_alkanani,MaAsLin2 (rare),0,Recall
+t1d_mejialeon,MaAsLin2 (rare),1,Recall
+wood_plastic_kesy,MaAsLin2 (rare),1,Recall
+ArcticFireSoils,metagenomeSeq,0.428571429,Recall
+Chemerin,metagenomeSeq,0.957894737,Recall
+glass_plastic_oberbeckmann,metagenomeSeq,0.5,Recall
+GWMC_ASIA_NA,metagenomeSeq,1,Recall
+hiv_lozupone,metagenomeSeq,0,Recall
+ibd_papa,metagenomeSeq,0.8,Recall
+Ji_WTP_DS,metagenomeSeq,0.909090909,Recall
+sed_plastic_hoellein,metagenomeSeq,1,Recall
+sed_plastic_rosato,metagenomeSeq,0.990654206,Recall
+seston_plastic_mccormick,metagenomeSeq,0.333333333,Recall
+sw_plastic_frere,metagenomeSeq,0.929245283,Recall
+sw_sed_detender,metagenomeSeq,0.857142857,Recall
+t1d_alkanani,metagenomeSeq,0,Recall
+t1d_mejialeon,metagenomeSeq,0,Recall
+wood_plastic_kesy,metagenomeSeq,1,Recall
+ArcticFireSoils,t-test (rare),1,Recall
+Chemerin,t-test (rare),1,Recall
+glass_plastic_oberbeckmann,t-test (rare),0,Recall
+GWMC_ASIA_NA,t-test (rare),1,Recall
+hiv_lozupone,t-test (rare),0.111111111,Recall
+ibd_papa,t-test (rare),0,Recall
+Ji_WTP_DS,t-test (rare),1,Recall
+sed_plastic_hoellein,t-test (rare),0,Recall
+sed_plastic_rosato,t-test (rare),0.747663551,Recall
+seston_plastic_mccormick,t-test (rare),1,Recall
+sw_plastic_frere,t-test (rare),0.396226415,Recall
+sw_sed_detender,t-test (rare),0.982142857,Recall
+t1d_alkanani,t-test (rare),0,Recall
+t1d_mejialeon,t-test (rare),0.333333333,Recall
+wood_plastic_kesy,t-test (rare),1,Recall
+ArcticFireSoils,Wilcoxon (CLR),1,Recall
+Chemerin,Wilcoxon (CLR),1,Recall
+glass_plastic_oberbeckmann,Wilcoxon (CLR),0.333333333,Recall
+GWMC_ASIA_NA,Wilcoxon (CLR),1,Recall
+hiv_lozupone,Wilcoxon (CLR),0,Recall
+ibd_papa,Wilcoxon (CLR),0,Recall
+Ji_WTP_DS,Wilcoxon (CLR),1,Recall
+sed_plastic_hoellein,Wilcoxon (CLR),1,Recall
+sed_plastic_rosato,Wilcoxon (CLR),1,Recall
+seston_plastic_mccormick,Wilcoxon (CLR),1,Recall
+sw_plastic_frere,Wilcoxon (CLR),1,Recall
+sw_sed_detender,Wilcoxon (CLR),1,Recall
+t1d_alkanani,Wilcoxon (CLR),0,Recall
+t1d_mejialeon,Wilcoxon (CLR),0,Recall
+wood_plastic_kesy,Wilcoxon (CLR),1,Recall
+ArcticFireSoils,Wilcoxon (rare),1,Recall
+Chemerin,Wilcoxon (rare),1,Recall
+glass_plastic_oberbeckmann,Wilcoxon (rare),0.833333333,Recall
+GWMC_ASIA_NA,Wilcoxon (rare),1,Recall
+hiv_lozupone,Wilcoxon (rare),0,Recall
+ibd_papa,Wilcoxon (rare),0,Recall
+Ji_WTP_DS,Wilcoxon (rare),1,Recall
+sed_plastic_hoellein,Wilcoxon (rare),0,Recall
+sed_plastic_rosato,Wilcoxon (rare),1,Recall
+seston_plastic_mccormick,Wilcoxon (rare),1,Recall
+sw_plastic_frere,Wilcoxon (rare),0.849056604,Recall
+sw_sed_detender,Wilcoxon (rare),1,Recall
+t1d_alkanani,Wilcoxon (rare),0,Recall
+t1d_mejialeon,Wilcoxon (rare),1,Recall
+wood_plastic_kesy,Wilcoxon (rare),1,Recall
+ArcticFireSoils,limma voom (TMM),1,Recall
+Chemerin,limma voom (TMM),1,Recall
+glass_plastic_oberbeckmann,limma voom (TMM),0.833333333,Recall
+GWMC_ASIA_NA,limma voom (TMM),1,Recall
+hiv_lozupone,limma voom (TMM),0.222222222,Recall
+ibd_papa,limma voom (TMM),0,Recall
+Ji_WTP_DS,limma voom (TMM),1,Recall
+sed_plastic_hoellein,limma voom (TMM),0.5,Recall
+sed_plastic_rosato,limma voom (TMM),1,Recall
+seston_plastic_mccormick,limma voom (TMM),1,Recall
+sw_plastic_frere,limma voom (TMM),1,Recall
+sw_sed_detender,limma voom (TMM),0.994047619,Recall
+t1d_alkanani,limma voom (TMM),0,Recall
+t1d_mejialeon,limma voom (TMM),1,Recall
+wood_plastic_kesy,limma voom (TMM),1,Recall
+ArcticFireSoils,limma voom (TMMwsp),1,Recall
+Chemerin,limma voom (TMMwsp),1,Recall
+glass_plastic_oberbeckmann,limma voom (TMMwsp),1,Recall
+GWMC_ASIA_NA,limma voom (TMMwsp),1,Recall
+hiv_lozupone,limma voom (TMMwsp),0.111111111,Recall
+ibd_papa,limma voom (TMMwsp),0,Recall
+Ji_WTP_DS,limma voom (TMMwsp),1,Recall
+sed_plastic_hoellein,limma voom (TMMwsp),1,Recall
+sed_plastic_rosato,limma voom (TMMwsp),1,Recall
+seston_plastic_mccormick,limma voom (TMMwsp),1,Recall
+sw_plastic_frere,limma voom (TMMwsp),1,Recall
+sw_sed_detender,limma voom (TMMwsp),1,Recall
+t1d_alkanani,limma voom (TMMwsp),0,Recall
+t1d_mejialeon,limma voom (TMMwsp),0.666666667,Recall
+wood_plastic_kesy,limma voom (TMMwsp),1,Recall
+ArcticFireSoils,ALDEx2,0.013333333,Precision
+ArcticFreshwaters,ALDEx2,0,Precision
+ArcticTransects,ALDEx2,0,Precision
+cdi_schubert,ALDEx2,0,Precision
+Chemerin,ALDEx2,0.402542373,Precision
+edd_singh,ALDEx2,0,Precision
+glass_plastic_oberbeckmann,ALDEx2,1,Precision
+GWMC_ASIA_NA,ALDEx2,0.002120891,Precision
+GWMC_HOT_COLD,ALDEx2,0,Precision
+Ji_WTP_DS,ALDEx2,0.203703704,Precision
+MALL,ALDEx2,0,Precision
+ob_goodrich,ALDEx2,0,Precision
+ob_zhu,ALDEx2,0,Precision
+Office,ALDEx2,0,Precision
+sed_plastic_hoellein,ALDEx2,0.5,Precision
+sed_plastic_rosato,ALDEx2,0.394833948,Precision
+seston_plastic_mccormick,ALDEx2,0.036585366,Precision
+sw_plastic_frere,ALDEx2,0.471111111,Precision
+sw_sed_detender,ALDEx2,0.2026538,Precision
+t1d_mejialeon,ALDEx2,1,Precision
+wood_plastic_kesy,ALDEx2,0.054054054,Precision
+ArcticFireSoils,ANCOM-II,0.037634409,Precision
+ArcticFreshwaters,ANCOM-II,0,Precision
+ArcticTransects,ANCOM-II,0,Precision
+BISCUIT,ANCOM-II,0,Precision
+Blueberry,ANCOM-II,0,Precision
+cdi_schubert,ANCOM-II,0,Precision
+cdi_vincent,ANCOM-II,0,Precision
+Chemerin,ANCOM-II,0.676258993,Precision
+crc_baxter,ANCOM-II,0,Precision
+crc_zeller,ANCOM-II,0,Precision
+edd_singh,ANCOM-II,0,Precision
+Exercise,ANCOM-II,0,Precision
+glass_plastic_oberbeckmann,ANCOM-II,1,Precision
+GWMC_ASIA_NA,ANCOM-II,0.006762468,Precision
+GWMC_HOT_COLD,ANCOM-II,0,Precision
+hiv_lozupone,ANCOM-II,1,Precision
+hiv_noguerajulian,ANCOM-II,0,Precision
+ibd_gevers,ANCOM-II,0,Precision
+Ji_WTP_DS,ANCOM-II,0.703703704,Precision
+MALL,ANCOM-II,0,Precision
+ob_goodrich,ANCOM-II,0,Precision
+ob_turnbaugh,ANCOM-II,0,Precision
+ob_zhu,ANCOM-II,0,Precision
+Office,ANCOM-II,0,Precision
+sed_plastic_hoellein,ANCOM-II,0.153846154,Precision
+sed_plastic_rosato,ANCOM-II,0.75,Precision
+seston_plastic_mccormick,ANCOM-II,0.056603774,Precision
+sw_plastic_frere,ANCOM-II,0.486111111,Precision
+sw_sed_detender,ANCOM-II,0.542016807,Precision
+t1d_mejialeon,ANCOM-II,1,Precision
+wood_plastic_kesy,ANCOM-II,0.25,Precision
+ArcticFireSoils,corncob,0.006930693,Precision
+ArcticFreshwaters,corncob,0,Precision
+ArcticTransects,corncob,0,Precision
+art_scher,corncob,0,Precision
+asd_son,corncob,0,Precision
+Blueberry,corncob,0,Precision
+cdi_schubert,corncob,0,Precision
+cdi_vincent,corncob,0,Precision
+Chemerin,corncob,0.183673469,Precision
+crc_baxter,corncob,0,Precision
+crc_zeller,corncob,0,Precision
+edd_singh,corncob,0,Precision
+glass_plastic_oberbeckmann,corncob,0.625,Precision
+GWMC_ASIA_NA,corncob,0.001503194,Precision
+GWMC_HOT_COLD,corncob,0,Precision
+hiv_dinh,corncob,0,Precision
+hiv_lozupone,corncob,0.210526316,Precision
+hiv_noguerajulian,corncob,0,Precision
+ibd_gevers,corncob,0,Precision
+ibd_papa,corncob,0,Precision
+Ji_WTP_DS,corncob,0.25,Precision
+MALL,corncob,0,Precision
+ob_goodrich,corncob,0,Precision
+ob_turnbaugh,corncob,0,Precision
+ob_zhu,corncob,0,Precision
+Office,corncob,0,Precision
+par_scheperjans,corncob,0,Precision
+sed_plastic_hoellein,corncob,0,Precision
+sed_plastic_rosato,corncob,0.27154047,Precision
+seston_plastic_mccormick,corncob,0.005571031,Precision
+sw_plastic_frere,corncob,0.209677419,Precision
+sw_sed_detender,corncob,0.106564365,Precision
+t1d_alkanani,corncob,0.259259259,Precision
+t1d_mejialeon,corncob,0.058823529,Precision
+wood_plastic_kesy,corncob,0.033898305,Precision
+ArcticFireSoils,DESeq2,0.005503145,Precision
+ArcticFreshwaters,DESeq2,0,Precision
+ArcticTransects,DESeq2,0,Precision
+art_scher,DESeq2,0,Precision
+BISCUIT,DESeq2,0,Precision
+Blueberry,DESeq2,0,Precision
+cdi_schubert,DESeq2,0,Precision
+cdi_vincent,DESeq2,0,Precision
+Chemerin,DESeq2,0.284431138,Precision
+crc_baxter,DESeq2,0,Precision
+crc_zeller,DESeq2,0,Precision
+edd_singh,DESeq2,0,Precision
+glass_plastic_oberbeckmann,DESeq2,0.625,Precision
+GWMC_ASIA_NA,DESeq2,0.001715634,Precision
+GWMC_HOT_COLD,DESeq2,0,Precision
+hiv_lozupone,DESeq2,0.086956522,Precision
+hiv_noguerajulian,DESeq2,0,Precision
+ibd_gevers,DESeq2,0,Precision
+Ji_WTP_DS,DESeq2,0.14379085,Precision
+MALL,DESeq2,0,Precision
+ob_goodrich,DESeq2,0,Precision
+ob_turnbaugh,DESeq2,0,Precision
+ob_zhu,DESeq2,0,Precision
+Office,DESeq2,0,Precision
+sed_plastic_hoellein,DESeq2,0.014705882,Precision
+sed_plastic_rosato,DESeq2,0.266149871,Precision
+seston_plastic_mccormick,DESeq2,0.006410256,Precision
+sw_plastic_frere,DESeq2,0.107890499,Precision
+sw_sed_detender,DESeq2,0.148661127,Precision
+t1d_mejialeon,DESeq2,0.117647059,Precision
+wood_plastic_kesy,DESeq2,0.040816327,Precision
+ArcticFireSoils,edgeR,0.003017241,Precision
+ArcticFreshwaters,edgeR,0,Precision
+ArcticTransects,edgeR,0,Precision
+art_scher,edgeR,0,Precision
+asd_son,edgeR,0,Precision
+BISCUIT,edgeR,0,Precision
+Blueberry,edgeR,0,Precision
+cdi_schubert,edgeR,0,Precision
+cdi_vincent,edgeR,0,Precision
+Chemerin,edgeR,0.246753247,Precision
+crc_baxter,edgeR,0,Precision
+crc_zeller,edgeR,0,Precision
+edd_singh,edgeR,0,Precision
+Exercise,edgeR,0,Precision
+glass_plastic_oberbeckmann,edgeR,0.058252427,Precision
+GWMC_ASIA_NA,edgeR,0.001442221,Precision
+GWMC_HOT_COLD,edgeR,0,Precision
+hiv_dinh,edgeR,0,Precision
+hiv_lozupone,edgeR,0.133333333,Precision
+hiv_noguerajulian,edgeR,0,Precision
+ibd_gevers,edgeR,0,Precision
+ibd_papa,edgeR,0.098039216,Precision
+Ji_WTP_DS,edgeR,0.106280193,Precision
+MALL,edgeR,0,Precision
+ob_goodrich,edgeR,0,Precision
+ob_ross,edgeR,0,Precision
+ob_turnbaugh,edgeR,0,Precision
+ob_zhu,edgeR,0,Precision
+Office,edgeR,0,Precision
+par_scheperjans,edgeR,0,Precision
+sed_plastic_hoellein,edgeR,0.003169572,Precision
+sed_plastic_rosato,edgeR,0.165634675,Precision
+seston_plastic_mccormick,edgeR,0.002555366,Precision
+sw_plastic_frere,edgeR,0.070974222,Precision
+sw_sed_detender,edgeR,0.091007584,Precision
+t1d_mejialeon,edgeR,0.052631579,Precision
+wood_plastic_kesy,edgeR,0.00896861,Precision
+ArcticFireSoils,LEfSe,0.003538928,Precision
+ArcticFreshwaters,LEfSe,0,Precision
+ArcticTransects,LEfSe,0,Precision
+art_scher,LEfSe,0,Precision
+asd_son,LEfSe,0,Precision
+BISCUIT,LEfSe,0,Precision
+Blueberry,LEfSe,0,Precision
+cdi_schubert,LEfSe,0,Precision
+cdi_vincent,LEfSe,0,Precision
+Chemerin,LEfSe,0.258855586,Precision
+crc_baxter,LEfSe,0,Precision
+crc_zeller,LEfSe,0,Precision
+edd_singh,LEfSe,0,Precision
+Exercise,LEfSe,0,Precision
+glass_plastic_oberbeckmann,LEfSe,0.06185567,Precision
+GWMC_ASIA_NA,LEfSe,0.001443262,Precision
+GWMC_HOT_COLD,LEfSe,0,Precision
+hiv_dinh,LEfSe,0,Precision
+hiv_lozupone,LEfSe,0.181818182,Precision
+hiv_noguerajulian,LEfSe,0,Precision
+ibd_gevers,LEfSe,0,Precision
+ibd_papa,LEfSe,0.069444444,Precision
+Ji_WTP_DS,LEfSe,0.115183246,Precision
+MALL,LEfSe,0,Precision
+ob_goodrich,LEfSe,0,Precision
+ob_ross,LEfSe,0,Precision
+ob_turnbaugh,LEfSe,0,Precision
+ob_zhu,LEfSe,0,Precision
+Office,LEfSe,0,Precision
+par_scheperjans,LEfSe,0,Precision
+sed_plastic_hoellein,LEfSe,0.005586592,Precision
+sed_plastic_rosato,LEfSe,0.226215645,Precision
+seston_plastic_mccormick,LEfSe,0.00462963,Precision
+sw_plastic_frere,LEfSe,0.349662162,Precision
+sw_sed_detender,LEfSe,0.115226337,Precision
+t1d_alkanani,LEfSe,0.125,Precision
+t1d_mejialeon,LEfSe,0.039473684,Precision
+wood_plastic_kesy,LEfSe,0.015748031,Precision
+ArcticFireSoils,MaAsLin2,0.004107981,Precision
+ArcticFreshwaters,MaAsLin2,0,Precision
+ArcticTransects,MaAsLin2,0,Precision
+art_scher,MaAsLin2,0,Precision
+Blueberry,MaAsLin2,0,Precision
+cdi_schubert,MaAsLin2,0,Precision
+Chemerin,MaAsLin2,0.25606469,Precision
+crc_baxter,MaAsLin2,0,Precision
+crc_zeller,MaAsLin2,0,Precision
+edd_singh,MaAsLin2,0,Precision
+glass_plastic_oberbeckmann,MaAsLin2,0.24,Precision
+GWMC_ASIA_NA,MaAsLin2,0.001469508,Precision
+GWMC_HOT_COLD,MaAsLin2,0,Precision
+hiv_lozupone,MaAsLin2,0.666666667,Precision
+hiv_noguerajulian,MaAsLin2,0,Precision
+ibd_gevers,MaAsLin2,0,Precision
+ibd_papa,MaAsLin2,1,Precision
+Ji_WTP_DS,MaAsLin2,0.121546961,Precision
+MALL,MaAsLin2,0,Precision
+ob_goodrich,MaAsLin2,0,Precision
+ob_zhu,MaAsLin2,0,Precision
+Office,MaAsLin2,0,Precision
+sed_plastic_hoellein,MaAsLin2,0.027777778,Precision
+sed_plastic_rosato,MaAsLin2,0.218813906,Precision
+seston_plastic_mccormick,MaAsLin2,0.004958678,Precision
+sw_plastic_frere,MaAsLin2,0.390243902,Precision
+sw_sed_detender,MaAsLin2,0.097447796,Precision
+t1d_mejialeon,MaAsLin2,0.1,Precision
+wood_plastic_kesy,MaAsLin2,0.019047619,Precision
+ArcticFireSoils,MaAsLin2 (rare),0.00420926,Precision
+ArcticFreshwaters,MaAsLin2 (rare),0,Precision
+ArcticTransects,MaAsLin2 (rare),0,Precision
+art_scher,MaAsLin2 (rare),0,Precision
+Blueberry,MaAsLin2 (rare),0,Precision
+cdi_schubert,MaAsLin2 (rare),0,Precision
+Chemerin,MaAsLin2 (rare),0.284431138,Precision
+crc_baxter,MaAsLin2 (rare),0,Precision
+edd_singh,MaAsLin2 (rare),0,Precision
+Exercise,MaAsLin2 (rare),0,Precision
+glass_plastic_oberbeckmann,MaAsLin2 (rare),0.285714286,Precision
+GWMC_ASIA_NA,MaAsLin2 (rare),0.001485884,Precision
+GWMC_HOT_COLD,MaAsLin2 (rare),0,Precision
+hiv_lozupone,MaAsLin2 (rare),1,Precision
+hiv_noguerajulian,MaAsLin2 (rare),0,Precision
+ibd_gevers,MaAsLin2 (rare),0,Precision
+ibd_papa,MaAsLin2 (rare),1,Precision
+Ji_WTP_DS,MaAsLin2 (rare),0.125,Precision
+ob_goodrich,MaAsLin2 (rare),0,Precision
+ob_zhu,MaAsLin2 (rare),0,Precision
+Office,MaAsLin2 (rare),0,Precision
+sed_plastic_hoellein,MaAsLin2 (rare),0.111111111,Precision
+sed_plastic_rosato,MaAsLin2 (rare),0.322289157,Precision
+seston_plastic_mccormick,MaAsLin2 (rare),0.01875,Precision
+sw_plastic_frere,MaAsLin2 (rare),0.668,Precision
+sw_sed_detender,MaAsLin2 (rare),0.118393235,Precision
+t1d_mejialeon,MaAsLin2 (rare),0.166666667,Precision
+wood_plastic_kesy,MaAsLin2 (rare),0.060606061,Precision
+ArcticFireSoils,metagenomeSeq,0.002887392,Precision
+ArcticFreshwaters,metagenomeSeq,0,Precision
+ArcticTransects,metagenomeSeq,0,Precision
+art_scher,metagenomeSeq,0,Precision
+Blueberry,metagenomeSeq,0,Precision
+cdi_schubert,metagenomeSeq,0,Precision
+cdi_vincent,metagenomeSeq,0,Precision
+Chemerin,metagenomeSeq,0.255617978,Precision
+crc_baxter,metagenomeSeq,0,Precision
+crc_zeller,metagenomeSeq,0,Precision
+edd_singh,metagenomeSeq,0,Precision
+glass_plastic_oberbeckmann,metagenomeSeq,0.142857143,Precision
+GWMC_ASIA_NA,metagenomeSeq,0.001491146,Precision
+GWMC_HOT_COLD,metagenomeSeq,0,Precision
+ibd_gevers,metagenomeSeq,0,Precision
+ibd_papa,metagenomeSeq,1,Precision
+Ji_WTP_DS,metagenomeSeq,0.132450331,Precision
+MALL,metagenomeSeq,0,Precision
+ob_goodrich,metagenomeSeq,0,Precision
+Office,metagenomeSeq,0,Precision
+sed_plastic_hoellein,metagenomeSeq,0.043478261,Precision
+sed_plastic_rosato,metagenomeSeq,0.178752108,Precision
+seston_plastic_mccormick,metagenomeSeq,0.002680965,Precision
+sw_plastic_frere,metagenomeSeq,0.312698413,Precision
+sw_sed_detender,metagenomeSeq,0.099861304,Precision
+t1d_mejialeon,metagenomeSeq,0,Precision
+wood_plastic_kesy,metagenomeSeq,0.039215686,Precision
+ArcticFireSoils,t-test (rare),0.004421984,Precision
+ArcticFreshwaters,t-test (rare),0,Precision
+ArcticTransects,t-test (rare),0,Precision
+cdi_schubert,t-test (rare),0,Precision
+Chemerin,t-test (rare),0.260273973,Precision
+edd_singh,t-test (rare),0,Precision
+GWMC_ASIA_NA,t-test (rare),0.001585414,Precision
+GWMC_HOT_COLD,t-test (rare),0,Precision
+hiv_lozupone,t-test (rare),0.2,Precision
+hiv_noguerajulian,t-test (rare),0,Precision
+ibd_gevers,t-test (rare),0,Precision
+Ji_WTP_DS,t-test (rare),0.176,Precision
+ob_goodrich,t-test (rare),0,Precision
+Office,t-test (rare),0,Precision
+sed_plastic_rosato,t-test (rare),0.406091371,Precision
+seston_plastic_mccormick,t-test (rare),0.02189781,Precision
+sw_plastic_frere,t-test (rare),0.314606742,Precision
+sw_sed_detender,t-test (rare),0.21484375,Precision
+t1d_mejialeon,t-test (rare),1,Precision
+wood_plastic_kesy,t-test (rare),0.133333333,Precision
+ArcticFireSoils,Wilcoxon (CLR),0.003331747,Precision
+ArcticFreshwaters,Wilcoxon (CLR),0,Precision
+ArcticTransects,Wilcoxon (CLR),0,Precision
+cdi_schubert,Wilcoxon (CLR),0,Precision
+Chemerin,Wilcoxon (CLR),0.275362319,Precision
+crc_baxter,Wilcoxon (CLR),0,Precision
+crc_zeller,Wilcoxon (CLR),0,Precision
+edd_singh,Wilcoxon (CLR),0,Precision
+glass_plastic_oberbeckmann,Wilcoxon (CLR),1,Precision
+GWMC_ASIA_NA,Wilcoxon (CLR),0.001321877,Precision
+GWMC_HOT_COLD,Wilcoxon (CLR),0,Precision
+Ji_WTP_DS,Wilcoxon (CLR),0.13253012,Precision
+MALL,Wilcoxon (CLR),0,Precision
+ob_goodrich,Wilcoxon (CLR),0,Precision
+ob_turnbaugh,Wilcoxon (CLR),0,Precision
+ob_zhu,Wilcoxon (CLR),0,Precision
+Office,Wilcoxon (CLR),0,Precision
+sed_plastic_hoellein,Wilcoxon (CLR),0.004048583,Precision
+sed_plastic_rosato,Wilcoxon (CLR),0.16984127,Precision
+seston_plastic_mccormick,Wilcoxon (CLR),0.002423263,Precision
+sw_plastic_frere,Wilcoxon (CLR),0.069326357,Precision
+sw_sed_detender,Wilcoxon (CLR),0.112374582,Precision
+wood_plastic_kesy,Wilcoxon (CLR),0.007042254,Precision
+ArcticFireSoils,Wilcoxon (rare),0.003966006,Precision
+ArcticFreshwaters,Wilcoxon (rare),0,Precision
+ArcticTransects,Wilcoxon (rare),0,Precision
+Blueberry,Wilcoxon (rare),0,Precision
+cdi_schubert,Wilcoxon (rare),0,Precision
+Chemerin,Wilcoxon (rare),0.271428571,Precision
+crc_baxter,Wilcoxon (rare),0,Precision
+crc_zeller,Wilcoxon (rare),0,Precision
+edd_singh,Wilcoxon (rare),0,Precision
+glass_plastic_oberbeckmann,Wilcoxon (rare),0.333333333,Precision
+GWMC_ASIA_NA,Wilcoxon (rare),0.00146789,Precision
+GWMC_HOT_COLD,Wilcoxon (rare),0,Precision
+hiv_noguerajulian,Wilcoxon (rare),0,Precision
+ibd_gevers,Wilcoxon (rare),0,Precision
+Ji_WTP_DS,Wilcoxon (rare),0.121546961,Precision
+ob_goodrich,Wilcoxon (rare),0,Precision
+ob_zhu,Wilcoxon (rare),0,Precision
+Office,Wilcoxon (rare),0,Precision
+sed_plastic_rosato,Wilcoxon (rare),0.311046512,Precision
+seston_plastic_mccormick,Wilcoxon (rare),0.015228426,Precision
+sw_plastic_frere,Wilcoxon (rare),0.661764706,Precision
+sw_sed_detender,Wilcoxon (rare),0.119914347,Precision
+t1d_mejialeon,Wilcoxon (rare),0.1875,Precision
+wood_plastic_kesy,Wilcoxon (rare),0.068965517,Precision
+ArcticFireSoils,limma voom (TMM),0.003531786,Precision
+ArcticFreshwaters,limma voom (TMM),0,Precision
+ArcticTransects,limma voom (TMM),0,Precision
+art_scher,limma voom (TMM),0,Precision
+BISCUIT,limma voom (TMM),0,Precision
+Blueberry,limma voom (TMM),0,Precision
+cdi_schubert,limma voom (TMM),0,Precision
+Chemerin,limma voom (TMM),0.316666667,Precision
+crc_baxter,limma voom (TMM),0,Precision
+crc_zeller,limma voom (TMM),0,Precision
+edd_singh,limma voom (TMM),0,Precision
+glass_plastic_oberbeckmann,limma voom (TMM),0.357142857,Precision
+GWMC_ASIA_NA,limma voom (TMM),0.001385042,Precision
+GWMC_HOT_COLD,limma voom (TMM),0,Precision
+hiv_lozupone,limma voom (TMM),0.105263158,Precision
+hiv_noguerajulian,limma voom (TMM),0,Precision
+ibd_gevers,limma voom (TMM),0,Precision
+Ji_WTP_DS,limma voom (TMM),0.116402116,Precision
+MALL,limma voom (TMM),0,Precision
+ob_goodrich,limma voom (TMM),0,Precision
+ob_turnbaugh,limma voom (TMM),0,Precision
+ob_zhu,limma voom (TMM),0,Precision
+Office,limma voom (TMM),0,Precision
+sed_plastic_hoellein,limma voom (TMM),0.111111111,Precision
+sed_plastic_rosato,limma voom (TMM),0.134085213,Precision
+seston_plastic_mccormick,limma voom (TMM),0.00487013,Precision
+sw_plastic_frere,limma voom (TMM),0.224338624,Precision
+sw_sed_detender,limma voom (TMM),0.114776632,Precision
+t1d_mejialeon,limma voom (TMM),0.035294118,Precision
+wood_plastic_kesy,limma voom (TMM),0.032786885,Precision
+ArcticFireSoils,limma voom (TMMwsp),0.00487126,Precision
+ArcticFreshwaters,limma voom (TMMwsp),0,Precision
+ArcticTransects,limma voom (TMMwsp),0,Precision
+BISCUIT,limma voom (TMMwsp),0,Precision
+Blueberry,limma voom (TMMwsp),0,Precision
+cdi_schubert,limma voom (TMMwsp),0,Precision
+cdi_vincent,limma voom (TMMwsp),0,Precision
+Chemerin,limma voom (TMMwsp),0.219399538,Precision
+crc_baxter,limma voom (TMMwsp),0,Precision
+crc_zeller,limma voom (TMMwsp),0,Precision
+edd_singh,limma voom (TMMwsp),0,Precision
+glass_plastic_oberbeckmann,limma voom (TMMwsp),0.033898305,Precision
+GWMC_ASIA_NA,limma voom (TMMwsp),0.00145296,Precision
+GWMC_HOT_COLD,limma voom (TMMwsp),0,Precision
+hiv_lozupone,limma voom (TMMwsp),0.5,Precision
+hiv_noguerajulian,limma voom (TMMwsp),0,Precision
+ibd_gevers,limma voom (TMMwsp),0,Precision
+ibd_papa,limma voom (TMMwsp),0,Precision
+Ji_WTP_DS,limma voom (TMMwsp),0.120218579,Precision
+MALL,limma voom (TMMwsp),0,Precision
+ob_goodrich,limma voom (TMMwsp),0,Precision
+ob_ross,limma voom (TMMwsp),0,Precision
+ob_turnbaugh,limma voom (TMMwsp),0,Precision
+ob_zhu,limma voom (TMMwsp),0,Precision
+Office,limma voom (TMMwsp),0,Precision
+sed_plastic_hoellein,limma voom (TMMwsp),0.004750594,Precision
+sed_plastic_rosato,limma voom (TMMwsp),0.178631052,Precision
+seston_plastic_mccormick,limma voom (TMMwsp),0.005217391,Precision
+sw_plastic_frere,limma voom (TMMwsp),0.288435374,Precision
+sw_sed_detender,limma voom (TMMwsp),0.102941176,Precision
+t1d_mejialeon,limma voom (TMMwsp),0.181818182,Precision
+wood_plastic_kesy,limma voom (TMMwsp),0.028571429,Precision
+ArcticFireSoils,ALDEx2,0.026315789,F1 Score
+Chemerin,ALDEx2,0.574018127,F1 Score
+glass_plastic_oberbeckmann,ALDEx2,0.909090909,F1 Score
+GWMC_ASIA_NA,ALDEx2,0.004232804,F1 Score
+Ji_WTP_DS,ALDEx2,0.338461538,F1 Score
+sed_plastic_hoellein,ALDEx2,0.666666667,F1 Score
+sed_plastic_rosato,ALDEx2,0.566137566,F1 Score
+seston_plastic_mccormick,ALDEx2,0.070588235,F1 Score
+sw_plastic_frere,ALDEx2,0.640483384,F1 Score
+sw_sed_detender,ALDEx2,0.337011033,F1 Score
+t1d_mejialeon,ALDEx2,0.5,F1 Score
+wood_plastic_kesy,ALDEx2,0.102564103,F1 Score
+ArcticFireSoils,ANCOM-II,0.07253886,F1 Score
+Chemerin,ANCOM-II,0.803418803,F1 Score
+glass_plastic_oberbeckmann,ANCOM-II,0.8,F1 Score
+GWMC_ASIA_NA,ANCOM-II,0.013434089,F1 Score
+hiv_lozupone,ANCOM-II,0.2,F1 Score
+Ji_WTP_DS,ANCOM-II,0.775510204,F1 Score
+sed_plastic_hoellein,ANCOM-II,0.266666667,F1 Score
+sed_plastic_rosato,ANCOM-II,0.515337423,F1 Score
+seston_plastic_mccormick,ANCOM-II,0.107142857,F1 Score
+sw_plastic_frere,ANCOM-II,0.652173913,F1 Score
+sw_sed_detender,ANCOM-II,0.63546798,F1 Score
+t1d_mejialeon,ANCOM-II,0.5,F1 Score
+wood_plastic_kesy,ANCOM-II,0.4,F1 Score
+ArcticFireSoils,corncob,0.013765978,F1 Score
+Chemerin,corncob,0.186528497,F1 Score
+glass_plastic_oberbeckmann,corncob,0.714285714,F1 Score
+GWMC_ASIA_NA,corncob,0.003001876,F1 Score
+hiv_lozupone,corncob,0.285714286,F1 Score
+Ji_WTP_DS,corncob,0.322580645,F1 Score
+sed_plastic_rosato,corncob,0.424489796,F1 Score
+seston_plastic_mccormick,corncob,0.011049724,F1 Score
+sw_plastic_frere,corncob,0.303896104,F1 Score
+sw_sed_detender,corncob,0.186428039,F1 Score
+t1d_alkanani,corncob,0.405797101,F1 Score
+t1d_mejialeon,corncob,0.111111111,F1 Score
+wood_plastic_kesy,corncob,0.06557377,F1 Score
+ArcticFireSoils,DESeq2,0.010946052,F1 Score
+Chemerin,DESeq2,0.442890443,F1 Score
+glass_plastic_oberbeckmann,DESeq2,0.714285714,F1 Score
+GWMC_ASIA_NA,DESeq2,0.003425391,F1 Score
+hiv_lozupone,DESeq2,0.125,F1 Score
+Ji_WTP_DS,DESeq2,0.251428571,F1 Score
+sed_plastic_hoellein,DESeq2,0.028571429,F1 Score
+sed_plastic_rosato,DESeq2,0.417004049,F1 Score
+seston_plastic_mccormick,DESeq2,0.012738854,F1 Score
+sw_plastic_frere,DESeq2,0.19373494,F1 Score
+sw_sed_detender,DESeq2,0.257394085,F1 Score
+t1d_mejialeon,DESeq2,0.2,F1 Score
+wood_plastic_kesy,DESeq2,0.078431373,F1 Score
+ArcticFireSoils,edgeR,0.00601633,F1 Score
+Chemerin,edgeR,0.395833333,F1 Score
+glass_plastic_oberbeckmann,edgeR,0.110091743,F1 Score
+GWMC_ASIA_NA,edgeR,0.002880288,F1 Score
+hiv_lozupone,edgeR,0.205128205,F1 Score
+ibd_papa,edgeR,0.178571429,F1 Score
+Ji_WTP_DS,edgeR,0.192139738,F1 Score
+sed_plastic_hoellein,edgeR,0.006319115,F1 Score
+sed_plastic_rosato,edgeR,0.284196547,F1 Score
+seston_plastic_mccormick,edgeR,0.005097706,F1 Score
+sw_plastic_frere,edgeR,0.132541419,F1 Score
+sw_sed_detender,edgeR,0.166832175,F1 Score
+t1d_mejialeon,edgeR,0.090909091,F1 Score
+wood_plastic_kesy,edgeR,0.017777778,F1 Score
+ArcticFireSoils,LEfSe,0.007052897,F1 Score
+Chemerin,LEfSe,0.411255411,F1 Score
+glass_plastic_oberbeckmann,LEfSe,0.116504854,F1 Score
+GWMC_ASIA_NA,LEfSe,0.002882364,F1 Score
+hiv_lozupone,LEfSe,0.301886792,F1 Score
+ibd_papa,LEfSe,0.12987013,F1 Score
+Ji_WTP_DS,LEfSe,0.20657277,F1 Score
+sed_plastic_hoellein,LEfSe,0.011111111,F1 Score
+sed_plastic_rosato,LEfSe,0.368965517,F1 Score
+seston_plastic_mccormick,LEfSe,0.00921659,F1 Score
+sw_plastic_frere,LEfSe,0.514925373,F1 Score
+sw_sed_detender,LEfSe,0.206642066,F1 Score
+t1d_alkanani,LEfSe,0.216216216,F1 Score
+t1d_mejialeon,LEfSe,0.075949367,F1 Score
+wood_plastic_kesy,LEfSe,0.031007752,F1 Score
+ArcticFireSoils,MaAsLin2,0.00818235,F1 Score
+Chemerin,MaAsLin2,0.407725322,F1 Score
+glass_plastic_oberbeckmann,MaAsLin2,0.387096774,F1 Score
+GWMC_ASIA_NA,MaAsLin2,0.002934703,F1 Score
+hiv_lozupone,MaAsLin2,0.333333333,F1 Score
+ibd_papa,MaAsLin2,0.571428571,F1 Score
+Ji_WTP_DS,MaAsLin2,0.216748768,F1 Score
+sed_plastic_hoellein,MaAsLin2,0.054054054,F1 Score
+sed_plastic_rosato,MaAsLin2,0.359060403,F1 Score
+seston_plastic_mccormick,MaAsLin2,0.009868421,F1 Score
+sw_plastic_frere,MaAsLin2,0.558389262,F1 Score
+sw_sed_detender,MaAsLin2,0.177589852,F1 Score
+t1d_mejialeon,MaAsLin2,0.181818182,F1 Score
+wood_plastic_kesy,MaAsLin2,0.037383178,F1 Score
+ArcticFireSoils,MaAsLin2 (rare),0.008383234,F1 Score
+Chemerin,MaAsLin2 (rare),0.442890443,F1 Score
+glass_plastic_oberbeckmann,MaAsLin2 (rare),0.444444444,F1 Score
+GWMC_ASIA_NA,MaAsLin2 (rare),0.002967359,F1 Score
+hiv_lozupone,MaAsLin2 (rare),0.2,F1 Score
+ibd_papa,MaAsLin2 (rare),0.571428571,F1 Score
+Ji_WTP_DS,MaAsLin2 (rare),0.222222222,F1 Score
+sed_plastic_hoellein,MaAsLin2 (rare),0.181818182,F1 Score
+sed_plastic_rosato,MaAsLin2 (rare),0.487471526,F1 Score
+seston_plastic_mccormick,MaAsLin2 (rare),0.036809816,F1 Score
+sw_plastic_frere,MaAsLin2 (rare),0.722943723,F1 Score
+sw_sed_detender,MaAsLin2 (rare),0.211720227,F1 Score
+t1d_mejialeon,MaAsLin2 (rare),0.285714286,F1 Score
+wood_plastic_kesy,MaAsLin2 (rare),0.114285714,F1 Score
+ArcticFireSoils,metagenomeSeq,0.005736138,F1 Score
+Chemerin,metagenomeSeq,0.403547672,F1 Score
+glass_plastic_oberbeckmann,metagenomeSeq,0.222222222,F1 Score
+GWMC_ASIA_NA,metagenomeSeq,0.002977852,F1 Score
+ibd_papa,metagenomeSeq,0.888888889,F1 Score
+Ji_WTP_DS,metagenomeSeq,0.231213873,F1 Score
+sed_plastic_hoellein,metagenomeSeq,0.083333333,F1 Score
+sed_plastic_rosato,metagenomeSeq,0.302857143,F1 Score
+seston_plastic_mccormick,metagenomeSeq,0.005319149,F1 Score
+sw_plastic_frere,metagenomeSeq,0.467933492,F1 Score
+sw_sed_detender,metagenomeSeq,0.178881988,F1 Score
+wood_plastic_kesy,metagenomeSeq,0.075471698,F1 Score
+ArcticFireSoils,t-test (rare),0.008805031,F1 Score
+Chemerin,t-test (rare),0.413043478,F1 Score
+GWMC_ASIA_NA,t-test (rare),0.003165809,F1 Score
+hiv_lozupone,t-test (rare),0.142857143,F1 Score
+Ji_WTP_DS,t-test (rare),0.299319728,F1 Score
+sed_plastic_rosato,t-test (rare),0.526315789,F1 Score
+seston_plastic_mccormick,t-test (rare),0.042857143,F1 Score
+sw_plastic_frere,t-test (rare),0.350730689,F1 Score
+sw_sed_detender,t-test (rare),0.352564103,F1 Score
+t1d_mejialeon,t-test (rare),0.5,F1 Score
+wood_plastic_kesy,t-test (rare),0.235294118,F1 Score
+ArcticFireSoils,Wilcoxon (CLR),0.006641366,F1 Score
+Chemerin,Wilcoxon (CLR),0.431818182,F1 Score
+glass_plastic_oberbeckmann,Wilcoxon (CLR),0.5,F1 Score
+GWMC_ASIA_NA,Wilcoxon (CLR),0.002640264,F1 Score
+Ji_WTP_DS,Wilcoxon (CLR),0.234042553,F1 Score
+sed_plastic_hoellein,Wilcoxon (CLR),0.008064516,F1 Score
+sed_plastic_rosato,Wilcoxon (CLR),0.29036635,F1 Score
+seston_plastic_mccormick,Wilcoxon (CLR),0.004834811,F1 Score
+sw_plastic_frere,Wilcoxon (CLR),0.129663609,F1 Score
+sw_sed_detender,Wilcoxon (CLR),0.202044498,F1 Score
+wood_plastic_kesy,Wilcoxon (CLR),0.013986014,F1 Score
+ArcticFireSoils,Wilcoxon (rare),0.007900677,F1 Score
+Chemerin,Wilcoxon (rare),0.426966292,F1 Score
+glass_plastic_oberbeckmann,Wilcoxon (rare),0.476190476,F1 Score
+GWMC_ASIA_NA,Wilcoxon (rare),0.002931477,F1 Score
+Ji_WTP_DS,Wilcoxon (rare),0.216748768,F1 Score
+sed_plastic_rosato,Wilcoxon (rare),0.474501109,F1 Score
+seston_plastic_mccormick,Wilcoxon (rare),0.03,F1 Score
+sw_plastic_frere,Wilcoxon (rare),0.743801653,F1 Score
+sw_sed_detender,Wilcoxon (rare),0.21414914,F1 Score
+t1d_mejialeon,Wilcoxon (rare),0.315789474,F1 Score
+wood_plastic_kesy,Wilcoxon (rare),0.129032258,F1 Score
+ArcticFireSoils,limma voom (TMM),0.007038713,F1 Score
+Chemerin,limma voom (TMM),0.481012658,F1 Score
+glass_plastic_oberbeckmann,limma voom (TMM),0.5,F1 Score
+GWMC_ASIA_NA,limma voom (TMM),0.002766252,F1 Score
+hiv_lozupone,limma voom (TMM),0.142857143,F1 Score
+Ji_WTP_DS,limma voom (TMM),0.208530806,F1 Score
+sed_plastic_hoellein,limma voom (TMM),0.181818182,F1 Score
+sed_plastic_rosato,limma voom (TMM),0.236464088,F1 Score
+seston_plastic_mccormick,limma voom (TMM),0.009693053,F1 Score
+sw_plastic_frere,limma voom (TMM),0.366464996,F1 Score
+sw_sed_detender,limma voom (TMM),0.205791744,F1 Score
+t1d_mejialeon,limma voom (TMM),0.068181818,F1 Score
+wood_plastic_kesy,limma voom (TMM),0.063492063,F1 Score
+ArcticFireSoils,limma voom (TMMwsp),0.009695291,F1 Score
+Chemerin,limma voom (TMMwsp),0.359848485,F1 Score
+glass_plastic_oberbeckmann,limma voom (TMMwsp),0.06557377,F1 Score
+GWMC_ASIA_NA,limma voom (TMMwsp),0.002901705,F1 Score
+hiv_lozupone,limma voom (TMMwsp),0.181818182,F1 Score
+Ji_WTP_DS,limma voom (TMMwsp),0.214634146,F1 Score
+sed_plastic_hoellein,limma voom (TMMwsp),0.009456265,F1 Score
+sed_plastic_rosato,limma voom (TMMwsp),0.303116147,F1 Score
+seston_plastic_mccormick,limma voom (TMMwsp),0.010380623,F1 Score
+sw_plastic_frere,limma voom (TMMwsp),0.447729673,F1 Score
+sw_sed_detender,limma voom (TMMwsp),0.186666667,F1 Score
+t1d_mejialeon,limma voom (TMMwsp),0.285714286,F1 Score
+wood_plastic_kesy,limma voom (TMMwsp),0.055555556,F1 Score
